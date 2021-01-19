@@ -1,7 +1,18 @@
 # Table of contents
 
-* [A quick introduction to Git and Github](README.md)
-* [Using the terminal](using-the-terminal.md)
-* [How to use the haflinger server](how-to-use-the-haflinger-server.md)
-* [Bead](bead.md)
+* [MicroData Onboarding](README.md)
+* [Checklist](checklist.md)
+
+## Episodes
+
+* [Introduction](episodes/introduction.md)
+* [Using the terminal](episodes/using-the-terminal.md)
+* [Git and GitHub](episodes/git-and-github.md)
+* [Server](episodes/how-to-use-the-haflinger-server.md)
+* [Bead](episodes/bead.md)
+
+## About us
+
+* [Peolpe](about-us/peolpe.md)
+* [Projects](about-us/projects.md)
 

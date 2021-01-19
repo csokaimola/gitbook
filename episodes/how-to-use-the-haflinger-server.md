@@ -10,9 +10,10 @@ objectives:
   - Learn how to set up connection with the server
   - Understand the basic specifications of our server
   - Study commands that are useful when working on the server
+description: How to use the haflinger server
 ---
 
-# How to use the haflinger server
+# Server
 
 ## The server and some basic information
 
