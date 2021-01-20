@@ -17,3 +17,4 @@ Enjoy both the lessons and your time at MicroData!
 > Make sure that you have a signed contract. Even though some lessons are useful in general, it is best if you have full access to the microdata resources \(e.g. server, slack, github, etc.\) first. To gain access to every resource, you need a CEU-issued e-mail address, which you should receive shortly after signing your contract. {: .prereq}
 
 TRIAL EDIT
+trial edit 2
