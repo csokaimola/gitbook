@@ -10,6 +10,7 @@
 * [Git and GitHub](episodes/git-and-github.md)
 * [Server](episodes/how-to-use-the-haflinger-server.md)
 * [Bead](episodes/bead.md)
+* [Working with data](episodes/working-with-data.md)
 
 ## About us
 
